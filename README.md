@@ -7,9 +7,6 @@
 
 # Python Machine Learning Jupyter Notebooks ([ML website](https://machine-learning-with-python.readthedocs.io/en/latest/))
 
-### Dr. Tirthajyoti Sarkar, Fremont, California ([Please feel free to connect on LinkedIn here](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7))
-
-![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
 
 ---
 
