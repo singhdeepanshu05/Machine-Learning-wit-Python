@@ -1,0 +1,542 @@
+Name ,Test Date,Symptoms_1,Symptoms_2,Symptoms_3,Country Name,Fever since ,Headche 
+shivani,24/3/2020,Cough,Headache,Fever,Iran,4,2
+isha,25/3/2020,Cough,Headache,Fever,Mauritius,7,4
+smt shyani devi,26/3/2020,Cough,Headache,Fever,Mozambique,6,4
+divya,27/3/2020,Cough,Headache,Fever,Cameroon,5,2
+mansi,28/3/2020,Cough,Headache,Fever,South Sudan,6,3
+mazida,29/3/2020,Cough,Headache,Fever,South Africa,6,2
+pooja,30/3/2020,Cough,Headache,Fever,Yemen,8,4
+kajal,31/3/2020,Cough,Headache,Fever,Virgin Islands (U.S.),6,5
+meena,1/4/2020,Cough,Headache,Fever,Netherlands,6,2
+sonam,2/4/2020,Cough,Headache,Fever,Federated States of Micronesia,6,3
+buity,3/4/2020,Cough,Headache,Fever,France,6,3
+hina,4/4/2020,Cough,Headache,Fever,Namibia,6,3
+shakshi sagar,5/4/2020,Cough,Headache,Fever,Singapore,6,3
+pooja,6/4/2020,Cough,Headache,Fever,Niue,4,5
+anita,7/4/2020,Cough,Headache,Fever,Serbia,5,5
+neetu,8/4/2020,Cough,Headache,Fever,Indonesia,4,2
+anshu,9/4/2020,Cough,Headache,Fever,Republic of Kosovo,4,4
+kanika kathuria,10/4/2020,Cough,Headache,Fever,Aruba,7,2
+manju,11/4/2020,Cough,Headache,Fever,Finland,7,2
+shakshi,12/4/2020,Cough,Headache,Fever,Northern Mariana Islands,7,3
+anita,13/4/2020,Cough,Headache,Fever,Brazil,5,5
+reena,14/4/2020,Cough,Headache,Fever,Algeria,5,5
+neha,15/4/2020,Cough,Headache,Fever,Colombia,5,5
+khushboo,16/4/2020,Cough,Headache,Fever,Belarus,8,2
+aasmin,17/4/2020,Cough,Headache,Fever,Central African Republic,6,5
+jyoti,18/4/2020,Cough,Headache,Fever,El Salvador,5,3
+riya masi,19/4/2020,Cough,Headache,Fever,Tuvalu,6,3
+rekha,20/4/2020,Cough,Headache,Fever,Australia,7,4
+leela with a child,21/4/2020,Cough,Headache,Fever,Somalia,5,3
+isha,22/4/2020,Cough,Headache,Fever,Guadeloupe,7,5
+gulshan,23/4/2020,Headache,Fever,Cough,Luxembourg,5,4
+priya jain,24/4/2020,Headache,Fever,Cough,Afghanistan,4,4
+pooja,25/4/2020,Headache,Fever,Cough,Slovenia,8,4
+rakhi,26/4/2020,Headache,Fever,Cough,Martinique,8,5
+versha,27/4/2020,Headache,Fever,Cough,Sweden,6,5
+sunita,28/4/2020,Headache,Fever,Cough,Suriname,7,2
+nitu kumari,29/4/2020,Headache,Fever,Cough,Chad,6,4
+vandana,30/4/2020,Headache,Fever,Cough,Turkey,4,5
+roshni,1/5/2020,Headache,Fever,Cough,Anguilla,8,2
+parveen,2/5/2020,Headache,Fever,Cough,Western Sahara,6,3
+versa,3/5/2020,Headache,Fever,Cough,Norway,4,2
+kavita,4/5/2020,Headache,Fever,Cough,Niger,8,5
+pooja,5/5/2020,Headache,Fever,Cough,Barbados,7,4
+sarojani,6/5/2020,Headache,Fever,Cough,Bulgaria,5,2
+nagina,7/5/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,6,3
+tapas das,8/5/2020,Headache,Fever,Cough,Sint Maarten,5,4
+priyanka,9/5/2020,Headache,Fever,Cough,Falkland Islands,5,5
+santna,10/5/2020,Headache,Fever,Cough,Burkina Faso,6,5
+khushbu,11/5/2020,Headache,Fever,Cough,Saint Barthelemy,6,4
+pooja,12/5/2020,Headache,Fever,Cough,Ecuador,8,5
+any bobby,13/5/2020,Headache,Fever,Cough,Aland Islands,7,4
+deeya kumari,14/5/2020,Headache,Fever,Cough,Tanzania,5,2
+anjali juneja,15/5/2020,Headache,Fever,Cough,Saint Helena,8,3
+anjali,16/5/2020,Headache,Fever,Cough,Eritrea,7,3
+champa karketta,17/5/2020,Headache,Fever,Cough,Myanmar,4,5
+anshu,18/5/2020,Headache,Fever,Cough,Lesotho,4,3
+monika,19/5/2020,Headache,Fever,Cough,Kiribati,6,5
+rimmi singh,20/5/2020,Headache,Fever,Cough,Malaysia,8,5
+aanamika misra,21/5/2020,Headache,Fever,Cough,Israel,7,4
+chahat,22/5/2020,Headache,Fever,Cough,Gibraltar,8,2
+manju,23/5/2020,Cough,Headache,Fever,Sri Lanka,5,3
+nagma khatoon,24/5/2020,Cough,Headache,Fever,England,5,2
+pooja,25/5/2020,Cough,Headache,Fever,Zimbabwe,8,2
+sonam,26/5/2020,Cough,Headache,Fever,Wallis and Futuna,5,2
+koshal,27/5/2020,Cough,Headache,Fever,Morocco,8,4
+laxmi,28/5/2020,Cough,Headache,Fever,Monaco,5,3
+sandhya,29/5/2020,Cough,Headache,Fever,Greenland,8,2
+poonam,30/5/2020,Cough,Headache,Fever,Saudi Arabia,5,2
+sna,31/5/2020,Cough,Headache,Fever,Hong Kong,5,2
+nikita senger,1/6/2020,Cough,Headache,Fever,Japan,6,3
+layba noor,2/6/2020,Cough,Headache,Fever,Mali,4,2
+iqra,3/6/2020,Headache,Fever,Cough,Saint Vincent and the Grenadines,5,5
+salima,4/6/2020,Headache,Fever,Cough,Romania,5,5
+naziya siddiqui,5/6/2020,Headache,Fever,Cough,Malta,8,3
+priti,6/6/2020,,Fever,Cough,Laos,7,5
+kamni,7/6/2020,Headache,Fever,Cough,Nigeria,5,3
+sandhya,8/6/2020,Headache,,Cough,Norfolk Island,8,3
+renu,9/6/2020,Headache,Fever,Cough,Botswana,8,3
+priya,10/6/2020,Headache,Fever,Cough,Ivory Coast,5,3
+pooja,11/6/2020,Headache,Fever,Cough,Pakistan,5,2
+minakchi,12/6/2020,Headache,Fever,Cough,Georgia,5,4
+ruby,13/6/2020,Headache,Fever,Cough,Austria,6,3
+smt.farhana baigum,14/6/2020,Headache,Fever,Cough,Scotland,7,2
+sheetal,15/6/2020,Headache,Fever,Cough,Denmark,8,4
+kalyani patro,16/6/2020,Headache,Fever,Cough,Kyrgyzstan,5,5
+anjali,17/6/2020,Headache,Fever,Cough,Lithuania,7,3
+priyanka,18/6/2020,Headache,Fever,Cough,Poland,8,3
+palak,19/6/2020,Headache,Fever,Cough,Sierra Leone,4,3
+babita,20/6/2020,Headache,Fever,Cough,Guyana,7,4
+gurdeep kaur,21/6/2020,Headache,Fever,Cough,Azerbaijan,5,4
+dhanwanti devi,22/6/2020,Headache,Fever,Cough,Mayotte,5,2
+fooljhnah,23/6/2020,Headache,Fever,Cough,San Marino,7,5
+vandana,24/6/2020,Headache,Fever,Cough,Gabon,4,5
+smt. gyatri devi,25/6/2020,Headache,Fever,Cough,Isle of Man,7,3
+shehnaz,26/6/2020,Headache,Fever,Cough,Vietnam,4,5
+kajal,27/6/2020,Headache,Fever,Cough,Dominican Republic,8,4
+pooja,28/6/2020,Headache,Fever,Cough,Togo,8,2
+ranju,29/6/2020,Headache,Fever,Cough,Maldives,7,4
+vidhi,30/6/2020,Headache,Fever,Cough,Guinea-Bissau,8,3
+pooja kashyap,1/7/2020,Headache,Fever,Cough,Cameroon,5,2
+jyoti,2/7/2020,Headache,,Cough,South Sudan,5,3
+meena kumari,3/7/2020,Cough,Headache,Fever,South Africa,4,2
+savita,4/7/2020,Cough,Headache,Fever,Yemen,6,2
+reena devi,5/7/2020,Cough,Headache,Fever,Virgin Islands (U.S.),6,4
+neha,6/7/2020,Cough,Headache,Fever,Netherlands,5,4
+payal goyala,7/7/2020,Cough,Headache,Fever,Federated States of Micronesia,4,3
+rakhi,8/7/2020,Cough,Headache,Fever,France,7,2
+priynka,9/7/2020,Cough,Headache,Fever,Namibia,4,4
+janki,10/7/2020,Cough,Headache,Fever,Singapore,7,4
+laxmi kumari,11/7/2020,Cough,Headache,Fever,Niue,7,2
+rinku malav,12/7/2020,Cough,Headache,Fever,Serbia,7,4
+sohni,13/7/2020,Cough,Headache,Fever,Indonesia,8,3
+basnti,14/7/2020,Headache,Fever,Cough,Republic of Kosovo,7,4
+meera,15/7/2020,Headache,Fever,Cough,Aruba,4,2
+pinki,16/7/2020,Headache,Fever,Cough,Finland,6,5
+shivani,17/7/2020,Headache,Fever,Cough,Northern Mariana Islands,8,4
+kiran devi,18/7/2020,Headache,Fever,Cough,Brazil,6,2
+sonia,19/7/2020,Headache,Fever,Cough,Algeria,5,5
+doly,20/7/2020,Headache,Fever,Cough,Colombia,6,5
+raj kumari,21/7/2020,Headache,Fever,Cough,Belarus,6,2
+manisha,22/7/2020,Headache,Fever,Cough,Central African Republic,5,4
+laxmi devi,23/7/2020,Headache,Fever,Cough,El Salvador,7,5
+swati joshi,24/7/2020,Headache,Fever,Cough,Tuvalu,7,4
+aashiya,25/7/2020,Headache,Fever,Cough,Australia,7,4
+reena,26/7/2020,Headache,Fever,Cough,Somalia,6,5
+vimla,27/7/2020,Headache,Fever,Cough,Guadeloupe,6,2
+suman,28/7/2020,Headache,Fever,Cough,Luxembourg,4,2
+sunita,29/7/2020,Headache,Fever,Cough,Afghanistan,4,4
+sunita,30/7/2020,Headache,Fever,Cough,Slovenia,5,2
+karina,31/7/2020,Headache,Fever,Cough,Martinique,7,3
+pooja jayshwal,1/8/2020,Headache,Fever,Cough,Sweden,5,3
+pooja prajapati,2/8/2020,Headache,Fever,Cough,Suriname,5,4
+seema,3/8/2020,Headache,Fever,Cough,Chad,4,4
+kranti,4/8/2020,Headache,Fever,Cough,Turkey,5,4
+neha,5/8/2020,Headache,Fever,Cough,Anguilla,6,2
+dimpal @doli,6/8/2020,Headache,Fever,Cough,Western Sahara,6,2
+aarti devi,7/8/2020,Headache,Fever,Cough,Norway,7,5
+sashi mittal,8/8/2020,Headache,Fever,Cough,Niger,7,3
+pooja,9/8/2020,Headache,Fever,Cough,Barbados,6,4
+preeti,10/8/2020,Headache,Fever,Cough,Bulgaria,7,4
+priyanka,11/8/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,8,2
+shajiya,12/8/2020,Headache,Fever,Cough,Sint Maarten,7,5
+priya sexena,13/8/2020,Cough,Headache,Fever,Falkland Islands,7,3
+preeti,14/8/2020,Cough,Headache,Fever,Burkina Faso,4,3
+shanti devi,15/8/2020,Cough,Headache,Fever,Saint Barthelemy,4,4
+sitara,16/8/2020,Cough,Headache,Fever,Ecuador,4,3
+aakanksha,17/8/2020,Cough,Headache,Fever,Aland Islands,8,3
+charu,18/8/2020,Cough,Headache,Fever,Tanzania,7,5
+pinki,19/8/2020,Cough,Headache,Fever,Saint Helena,4,2
+nilam devi,20/8/2020,Cough,Headache,Fever,Eritrea,7,2
+chango uraon,21/8/2020,Cough,Headache,Fever,Myanmar,5,3
+shiv kumari,22/8/2020,Cough,Headache,Fever,Lesotho,6,5
+kaushaliya,23/8/2020,Cough,Headache,Fever,Kiribati,8,5
+babita,24/8/2020,Headache,Fever,Cough,Malaysia,6,5
+mangla urf mangi bai,25/8/2020,Headache,Fever,Cough,Israel,4,4
+grace p.a.,26/8/2020,Headache,Fever,Cough,Gibraltar,6,5
+usha,27/8/2020,Headache,Fever,Cough,Sri Lanka,6,3
+smt rubi,28/8/2020,Headache,Fever,Cough,England,8,5
+nisha @ chinu,29/8/2020,Headache,Fever,Cough,Zimbabwe,4,3
+subhadra,30/8/2020,Headache,Fever,Cough,Wallis and Futuna,8,3
+lalita,31/8/2020,Headache,Fever,Cough,Morocco,6,2
+asma khatun,1/9/2020,Headache,Fever,Cough,Monaco,6,2
+anjali,2/9/2020,Headache,Fever,Cough,Greenland,7,5
+kalawati,3/9/2020,Headache,Fever,Cough,Saudi Arabia,4,4
+seema,4/9/2020,Headache,Fever,Cough,Hong Kong,7,4
+santosh singal,5/9/2020,,Fever,Cough,Japan,8,2
+priyanka,6/9/2020,Headache,Fever,Cough,Mali,8,4
+tina,7/9/2020,Headache,Fever,Cough,Saint Vincent and the Grenadines,4,4
+chanchal,8/9/2020,Headache,Fever,Cough,Romania,6,3
+mercy,9/9/2020,Headache,Fever,Cough,Malta,7,5
+poonam,10/9/2020,Headache,Fever,Cough,Laos,5,2
+smt. manju,11/9/2020,Headache,Fever,Cough,Nigeria,7,4
+varsha,12/9/2020,Headache,Fever,Cough,Norfolk Island,4,5
+huma khan,13/9/2020,Headache,Fever,Cough,Botswana,5,3
+gulbasha,14/9/2020,Headache,Fever,Cough,Ivory Coast,7,4
+seema khatun,15/9/2020,Headache,Fever,Cough,Pakistan,4,4
+seema,16/9/2020,Headache,Fever,Cough,Georgia,8,4
+roshni,17/9/2020,Headache,Fever,Cough,Austria,8,2
+rahila maqbool,18/9/2020,Headache,Fever,Cough,Scotland,7,2
+kajal choudhary,19/9/2020,Headache,Fever,Cough,Denmark,8,2
+preeti,20/9/2020,Headache,Fever,Cough,Kyrgyzstan,8,3
+geeta devi,21/9/2020,Headache,Fever,Cough,Lithuania,8,2
+swati thakur,22/9/2020,Headache,Fever,Cough,Poland,6,3
+pooja,23/9/2020,Cough,Headache,Fever,Sierra Leone,7,3
+shenaz,24/9/2020,Cough,Headache,Fever,Guyana,8,2
+rinki,25/9/2020,Cough,Headache,Fever,Azerbaijan,7,4
+chandni,26/9/2020,Cough,Headache,Fever,Mayotte,8,3
+priyanka,27/9/2020,Cough,Headache,Fever,San Marino,4,3
+ruksana,28/9/2020,Cough,Headache,Fever,Gabon,6,4
+vivek kumar,29/9/2020,Cough,Headache,Fever,Isle of Man,7,4
+kiran,30/9/2020,Cough,Headache,Fever,Vietnam,5,3
+nisha,1/10/2020,Cough,Headache,Fever,Dominican Republic,6,2
+heena zamil akhtar,2/10/2020,Cough,Headache,Fever,Togo,5,3
+jyoti,3/10/2020,Cough,Headache,Fever,Maldives,5,5
+rajni,4/10/2020,Headache,Fever,Cough,Guinea-Bissau,5,3
+nidhi kumari,5/10/2020,Headache,Fever,Cough,Cameroon,4,4
+seema,6/10/2020,Headache,Fever,Cough,South Sudan,8,2
+usha devi,7/10/2020,Headache,Fever,Cough,South Africa,8,3
+kajal,8/10/2020,Headache,Fever,Cough,Yemen,8,2
+mala devi,9/10/2020,Headache,Fever,Cough,Virgin Islands (U.S.),8,3
+khushbu,10/10/2020,Headache,Fever,Cough,Netherlands,6,2
+meena,11/10/2020,Headache,Fever,Cough,Federated States of Micronesia,6,5
+hamida khatun,12/10/2020,Headache,Fever,Cough,France,5,2
+chanchal,13/10/2020,Headache,Fever,Cough,Namibia,8,4
+aarti,14/10/2020,Headache,Fever,Cough,Singapore,5,3
+kanchan,15/10/2020,Headache,Fever,Cough,Niue,5,4
+pooja,16/10/2020,Headache,Fever,Cough,Serbia,6,2
+jyoti,17/10/2020,Headache,Fever,Cough,Indonesia,6,2
+priyaki rav,18/10/2020,Headache,Fever,Cough,Republic of Kosovo,8,5
+ranu tiwari,19/10/2020,Headache,Fever,Cough,Aruba,8,4
+anita devi,20/10/2020,Headache,Fever,Cough,Finland,7,5
+leelawati,21/10/2020,Headache,Fever,Cough,Northern Mariana Islands,5,5
+sunita,22/10/2020,Headache,Fever,Cough,Brazil,5,3
+manju devi,23/10/2020,Headache,Fever,Cough,Algeria,4,2
+kamla,24/10/2020,Headache,Fever,Cough,Colombia,5,3
+arti,25/10/2020,Headache,Fever,Cough,Belarus,6,4
+pooja,26/10/2020,Headache,Fever,Cough,Central African Republic,5,3
+dersv,24/3/2020,Headache,Fever,Cough,El Salvador,6,5
+mamta,25/3/2020,Headache,Fever,Cough,Tuvalu,8,2
+anju,26/3/2020,Headache,Fever,Cough,Australia,5,3
+priyanka,27/3/2020,Headache,Fever,Cough,Somalia,4,5
+aarti,28/3/2020,Headache,Fever,Cough,Guadeloupe,4,5
+noor bano,29/3/2020,Headache,Fever,Cough,Luxembourg,5,3
+saroj,30/3/2020,Headache,Fever,Cough,Afghanistan,7,3
+chandni,31/3/2020,Cough,Headache,Fever,Slovenia,8,3
+rosy massey,1/4/2020,Cough,Headache,Fever,Martinique,4,5
+poonam,2/4/2020,Cough,Headache,Fever,Sweden,7,5
+rinukanwr,3/4/2020,Cough,Headache,Fever,Suriname,4,3
+poonam,4/4/2020,Cough,Headache,Fever,Chad,4,3
+shalu,5/4/2020,Cough,Headache,Fever,Turkey,7,2
+sneha,6/4/2020,Cough,Headache,Fever,Anguilla,6,2
+neetu,7/4/2020,Cough,Headache,Fever,Western Sahara,4,5
+komal,8/4/2020,Cough,Headache,Fever,Norway,8,3
+sapna,9/4/2020,Cough,Headache,Fever,Niger,8,3
+sashi,10/4/2020,Cough,Headache,Fever,Barbados,6,4
+devki,11/4/2020,Headache,Fever,Cough,Bulgaria,4,4
+priya,12/4/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,8,4
+pooja,13/4/2020,Headache,Fever,Cough,Sint Maarten,8,5
+aarti,14/4/2020,Headache,Fever,Cough,Falkland Islands,4,5
+pooja,15/4/2020,Headache,Fever,Cough,Burkina Faso,8,2
+sahin,16/4/2020,Headache,Fever,Cough,Saint Barthelemy,5,5
+sunita,17/4/2020,Headache,Fever,Cough,Ecuador,7,3
+shalu,18/4/2020,Headache,Fever,Cough,Aland Islands,5,4
+anita,19/4/2020,Headache,Fever,Cough,Tanzania,7,2
+asha kumari,20/4/2020,Headache,Fever,Cough,Saint Helena,7,2
+komal,21/4/2020,Headache,Fever,Cough,Eritrea,5,3
+kusum,22/4/2020,Headache,Fever,Cough,Myanmar,8,4
+archna,23/4/2020,Headache,Fever,Cough,Lesotho,8,2
+himanshi,24/4/2020,Headache,Fever,Cough,Kiribati,4,5
+jyoti,25/4/2020,Headache,Fever,Cough,Malaysia,6,2
+jyoti,26/4/2020,Headache,Fever,Cough,Israel,7,2
+aarti,27/4/2020,Headache,Fever,Cough,Gibraltar,5,4
+anuradha,28/4/2020,Headache,Fever,Cough,Sri Lanka,7,5
+durga,29/4/2020,Headache,Fever,Cough,England,8,4
+km sunita,30/4/2020,Headache,Fever,Cough,Zimbabwe,6,5
+sony jha,1/5/2020,Headache,Fever,Cough,Wallis and Futuna,7,5
+sheetal,2/5/2020,Headache,Fever,Cough,Morocco,7,4
+preety,3/5/2020,Headache,Fever,Cough,Monaco,8,5
+rubina,4/5/2020,Headache,Fever,Cough,Greenland,4,3
+sangeeta,5/5/2020,Headache,Fever,Cough,Saudi Arabia,8,2
+madhuri sharma,6/5/2020,Headache,Fever,Cough,Hong Kong,4,2
+shabanm,7/5/2020,Headache,Fever,Cough,Japan,7,2
+sunita,8/5/2020,Headache,Fever,Cough,Mali,6,4
+meena,9/5/2020,Headache,Fever,Cough,Saint Vincent and the Grenadines,5,5
+meenu chawla,10/5/2020,Headache,Fever,Cough,Romania,6,3
+nisha,11/5/2020,Cough,Headache,Fever,Malta,4,4
+roshni,12/5/2020,Cough,Headache,Fever,Laos,6,2
+amar deep kaur,13/5/2020,Cough,Headache,Fever,Nigeria,6,3
+jyoti,14/5/2020,Cough,Headache,Fever,Norfolk Island,4,5
+shakshi,15/5/2020,Cough,Headache,Fever,Botswana,5,3
+neelam,16/5/2020,Cough,Headache,Fever,Ivory Coast,6,4
+aarti,17/5/2020,Cough,Headache,Fever,Pakistan,6,3
+smt sunita,18/5/2020,Cough,Headache,Fever,Georgia,5,5
+rajia,19/5/2020,Cough,Headache,Fever,Austria,8,4
+devi,20/5/2020,Cough,Headache,Fever,Scotland,5,4
+sita,21/5/2020,Cough,Headache,Fever,Denmark,7,2
+rubi,22/5/2020,Headache,Fever,Cough,Kyrgyzstan,4,3
+jyoti,23/5/2020,Headache,Fever,Cough,Lithuania,5,3
+priyansi,24/5/2020,Headache,Fever,Cough,Poland,6,3
+nandu,25/5/2020,Headache,Fever,Cough,Sierra Leone,4,3
+nazmin,26/5/2020,Headache,Fever,Cough,Guyana,8,5
+neha,27/5/2020,Headache,Fever,Cough,Azerbaijan,8,3
+varsha,28/5/2020,Headache,Fever,Cough,Mayotte,4,3
+tripti,29/5/2020,Headache,Fever,Cough,San Marino,8,4
+ramvati,30/5/2020,Headache,Fever,Cough,Gabon,5,4
+vandana,31/5/2020,Headache,Fever,Cough,Isle of Man,7,5
+afsana,1/6/2020,Headache,Fever,Cough,Vietnam,7,3
+farida begam,2/6/2020,Headache,Fever,Cough,Dominican Republic,5,2
+khushbu,3/6/2020,Headache,Fever,Cough,Togo,6,5
+neha,4/6/2020,Headache,Fever,Cough,Maldives,8,5
+arti,5/6/2020,Headache,Fever,Cough,Guinea-Bissau,8,4
+simran,6/6/2020,Headache,Fever,Cough,Cameroon,4,5
+ranita,7/6/2020,Headache,Fever,Cough,South Sudan,5,2
+yogita tiwari,8/6/2020,Headache,Fever,Cough,South Africa,7,3
+asha,9/6/2020,Headache,Fever,Cough,Yemen,8,3
+kiran devi,10/6/2020,Headache,Fever,Cough,Virgin Islands (U.S.),7,3
+pooja,11/6/2020,Headache,Fever,Cough,Netherlands,4,3
+soniya,12/6/2020,Headache,Fever,Cough,Federated States of Micronesia,8,4
+hemlata,13/6/2020,Headache,Fever,Cough,France,8,5
+priyanka,14/6/2020,Headache,Fever,Cough,Namibia,4,4
+kajal,15/6/2020,Headache,Fever,Cough,Singapore,6,2
+sushma,16/6/2020,Headache,Fever,Cough,Niue,7,5
+kavita,17/6/2020,Headache,Fever,Cough,Serbia,6,4
+ranjana,18/6/2020,Headache,Fever,Cough,Indonesia,7,5
+benjir,19/6/2020,Headache,Fever,Cough,Republic of Kosovo,5,3
+manju,20/6/2020,Headache,Fever,Cough,Aruba,4,4
+soniya,21/6/2020,Cough,Headache,Fever,Finland,7,5
+seema,22/6/2020,Cough,Headache,Fever,Northern Mariana Islands,7,2
+komal,23/6/2020,Cough,Headache,Fever,Brazil,7,5
+salma,24/6/2020,Cough,Headache,Fever,Algeria,6,5
+rukshana,25/6/2020,Cough,Headache,Fever,Colombia,5,5
+palak,26/6/2020,Cough,Headache,Fever,Belarus,6,2
+astha,27/6/2020,Cough,Headache,Fever,Central African Republic,6,5
+fahija,28/6/2020,Cough,Headache,Fever,El Salvador,4,2
+reeta,29/6/2020,Cough,Headache,Fever,Tuvalu,8,5
+noojo khatoon,30/6/2020,Cough,Headache,Fever,Australia,6,2
+chaya,1/7/2020,Cough,Headache,Fever,Somalia,4,4
+vandana,2/7/2020,Headache,Fever,Cough,Guadeloupe,8,3
+pooja,3/7/2020,Headache,Fever,Cough,Luxembourg,8,4
+mamta,4/7/2020,Headache,Fever,Cough,Afghanistan,5,5
+kiran,5/7/2020,Headache,Fever,Cough,Slovenia,5,4
+sakila,6/7/2020,Headache,Fever,Cough,Martinique,7,3
+rehana,7/7/2020,Headache,Fever,Cough,Sweden,8,3
+mamta,8/7/2020,Headache,Fever,Cough,Suriname,4,2
+jyoti,9/7/2020,Headache,Fever,Cough,Chad,8,2
+radha devi,10/7/2020,Headache,Fever,Cough,Turkey,7,2
+kumari komal,11/7/2020,Headache,Fever,Cough,Anguilla,5,3
+neha siddiki,12/7/2020,Headache,Fever,Cough,Western Sahara,4,5
+geeta,13/7/2020,Headache,Fever,Cough,Norway,4,3
+mira,14/7/2020,Headache,Fever,Cough,Niger,4,4
+smt. anju,15/7/2020,Headache,Fever,Cough,Barbados,4,4
+neha,16/7/2020,Headache,Fever,Cough,Bulgaria,4,5
+manisha,17/7/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,4,2
+priti,18/7/2020,Headache,Fever,Cough,Sint Maarten,6,2
+swati,19/7/2020,Headache,Fever,Cough,Falkland Islands,8,3
+seema,20/7/2020,Headache,Fever,Cough,Burkina Faso,5,5
+roshini praveen,21/7/2020,Headache,Fever,Cough,Saint Barthelemy,8,2
+neha,22/7/2020,Headache,Fever,Cough,Ecuador,7,5
+anjali,23/7/2020,Headache,Fever,Cough,Aland Islands,5,2
+afsana,24/7/2020,Headache,Fever,Cough,Tanzania,4,2
+shilpa,25/7/2020,Headache,Fever,Cough,Saint Helena,8,4
+sudha kumari,26/7/2020,Headache,Fever,Cough,Eritrea,5,5
+afrin,27/7/2020,Headache,Fever,Cough,Myanmar,4,4
+sabnam,28/7/2020,Headache,Fever,Cough,Lesotho,8,3
+batloon,29/7/2020,Headache,Fever,Cough,Kiribati,8,4
+monika,30/7/2020,Headache,Fever,Cough,Malaysia,6,5
+anjum devi,31/7/2020,Headache,Fever,Cough,Israel,7,2
+smt dhapa devi,1/8/2020,Cough,Headache,Fever,Gibraltar,8,2
+priti,2/8/2020,Cough,Headache,Fever,Sri Lanka,8,3
+yogita,3/8/2020,Cough,Headache,Fever,England,6,3
+mohini,4/8/2020,Cough,Headache,Fever,Zimbabwe,6,5
+samsad,5/8/2020,Cough,Headache,Fever,Wallis and Futuna,7,2
+sama,6/8/2020,Cough,Headache,Fever,Morocco,6,5
+kusum,7/8/2020,Cough,Headache,Fever,Monaco,4,2
+maya,8/8/2020,Cough,Headache,Fever,Greenland,4,4
+jassi,9/8/2020,Cough,Headache,Fever,Saudi Arabia,6,2
+raj kumari,10/8/2020,Cough,Headache,Fever,Hong Kong,8,2
+arti,11/8/2020,Cough,Headache,Fever,Japan,7,3
+priyanka,12/8/2020,Headache,Fever,Cough,Mali,6,5
+priya,13/8/2020,Headache,Fever,Cough,Saint Vincent and the Grenadines,6,5
+maya,14/8/2020,Headache,Fever,Cough,Romania,7,3
+yashoda,15/8/2020,Headache,Fever,Cough,Malta,5,5
+susila gudiya,16/8/2020,Headache,Fever,Cough,Laos,7,4
+kajal,17/8/2020,Headache,Fever,Cough,Nigeria,7,2
+kumari shivani,18/8/2020,Headache,Fever,Cough,Norfolk Island,5,4
+ramaiya,19/8/2020,Headache,Fever,Cough,Botswana,8,5
+kamli,20/8/2020,Headache,Fever,Cough,Ivory Coast,4,4
+munbura bibi,21/8/2020,Headache,Fever,Cough,Pakistan,7,5
+laxmi,22/8/2020,Headache,Fever,Cough,Georgia,7,2
+bulbul devi,23/8/2020,Headache,Fever,Cough,Austria,5,5
+radha,24/8/2020,Headache,Fever,Cough,Scotland,8,2
+rajni,25/8/2020,Headache,Fever,Cough,Denmark,7,2
+rupa,26/8/2020,Headache,Fever,Cough,Kyrgyzstan,7,5
+kumkum,27/8/2020,Headache,Fever,Cough,Lithuania,7,4
+ruksana bano,28/8/2020,Headache,Fever,Cough,Poland,8,5
+priyanka bagcdani,29/8/2020,Headache,Fever,Cough,Sierra Leone,8,2
+nisha,30/8/2020,Headache,Fever,Cough,Guyana,4,4
+kiran,31/8/2020,Headache,Fever,Cough,Azerbaijan,8,4
+sweety,1/9/2020,Headache,Fever,Cough,Mayotte,8,2
+gulafsa khatun,2/9/2020,Headache,Fever,Cough,San Marino,5,5
+pooja,3/9/2020,Headache,Fever,Cough,Gabon,7,2
+pooja,4/9/2020,Headache,Fever,Cough,Isle of Man,6,5
+pooja,5/9/2020,Headache,Fever,Cough,Vietnam,6,5
+priyanka,6/9/2020,Headache,Fever,Cough,Dominican Republic,8,5
+captain,7/9/2020,Headache,Fever,Cough,Togo,8,5
+aarti,8/9/2020,Headache,Fever,Cough,Maldives,5,5
+kumari priyanka agarwal,9/9/2020,Headache,Fever,Cough,Guinea-Bissau,8,2
+rekha,10/9/2020,Headache,Fever,Cough,Cameroon,7,3
+aarti,11/9/2020,Cough,Headache,Fever,South Sudan,7,3
+akansha,12/9/2020,Cough,Headache,Fever,South Africa,8,2
+kritika,13/9/2020,Cough,Headache,Fever,Yemen,4,5
+sefali,14/9/2020,Cough,Headache,Fever,Virgin Islands (U.S.),7,4
+khshbu,15/9/2020,Cough,Headache,Fever,Netherlands,8,4
+heena,16/9/2020,Cough,Headache,Fever,Federated States of Micronesia,5,5
+sangeeta,17/9/2020,Cough,Headache,Fever,France,5,2
+sunaki,18/9/2020,Cough,Headache,Fever,Namibia,6,3
+paramjeet kaur,19/9/2020,Cough,Headache,Fever,Singapore,6,5
+sangeet,20/9/2020,Cough,Headache,Fever,Niue,8,4
+shalu,21/9/2020,Cough,Headache,Fever,Serbia,6,4
+neelima,22/9/2020,Headache,Fever,Cough,Indonesia,6,5
+deepti,23/9/2020,Headache,Fever,Cough,Republic of Kosovo,5,3
+rajkumari,24/9/2020,Headache,Fever,Cough,Aruba,4,3
+pooja kanwar,25/9/2020,Headache,Fever,Cough,Finland,4,3
+heena,26/9/2020,Headache,Fever,Cough,Northern Mariana Islands,8,3
+meena,27/9/2020,Headache,Fever,Cough,Brazil,5,2
+rizwana khatun,28/9/2020,Headache,Fever,Cough,Algeria,5,2
+madhuri,29/9/2020,Headache,Fever,Cough,Colombia,7,4
+gulnanj,30/9/2020,Headache,Fever,Cough,Belarus,8,4
+pinki,1/10/2020,Headache,Fever,Cough,Central African Republic,6,2
+rajni,2/10/2020,Headache,Fever,Cough,El Salvador,4,2
+archana,3/10/2020,Headache,Fever,Cough,Tuvalu,4,3
+rajni devi,4/10/2020,Headache,Fever,Cough,Australia,4,2
+radha,5/10/2020,Headache,Fever,Cough,Somalia,7,5
+rinki,6/10/2020,Headache,Fever,Cough,Guadeloupe,4,3
+dipti,7/10/2020,Headache,Fever,Cough,Luxembourg,4,3
+kiran,8/10/2020,Headache,Fever,Cough,Afghanistan,5,3
+araddhna,9/10/2020,Headache,Fever,Cough,Slovenia,4,3
+bharti,10/10/2020,Headache,Fever,Cough,Martinique,5,2
+ku dolly,11/10/2020,Headache,Fever,Cough,Sweden,8,4
+meena devi,12/10/2020,Headache,Fever,Cough,Suriname,8,4
+payal,13/10/2020,Headache,Fever,Cough,Chad,6,2
+divya kawar,14/10/2020,Headache,Fever,Cough,Turkey,6,2
+laxmi kumari,15/10/2020,Headache,Fever,Cough,Anguilla,8,3
+babli,16/10/2020,Headache,Fever,Cough,Western Sahara,5,5
+muskan urf suman,17/10/2020,Headache,Fever,Cough,Norway,4,4
+neha,18/10/2020,Headache,Fever,Cough,Niger,8,2
+rekha,19/10/2020,Headache,Fever,Cough,Barbados,4,3
+badrunisha,20/10/2020,Headache,Fever,Cough,Bulgaria,8,3
+neelam,21/10/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,4,2
+poonam,22/10/2020,Cough,Headache,Fever,Sint Maarten,6,4
+kanchan,23/10/2020,Cough,Headache,Fever,Falkland Islands,8,4
+pinki,24/10/2020,Cough,Headache,Fever,Burkina Faso,6,4
+varsa,25/10/2020,Cough,Headache,Fever,Saint Barthelemy,5,3
+shukla vishwas,26/10/2020,Cough,Headache,Fever,Ecuador,8,3
+ekta chauhan,24/3/2020,Cough,Headache,Fever,Aland Islands,7,3
+pooja kumari,25/3/2020,Cough,Headache,Fever,Tanzania,6,3
+asha,26/3/2020,Cough,Headache,Fever,Saint Helena,7,2
+simran,27/3/2020,Cough,Headache,Fever,Eritrea,7,3
+minakshi,28/3/2020,Cough,Headache,Fever,Myanmar,7,4
+nasima,29/3/2020,Cough,Headache,Fever,Lesotho,6,4
+rajesh,30/3/2020,Headache,Fever,Cough,Kiribati,5,3
+madhuri,31/3/2020,Headache,Fever,Cough,Malaysia,7,5
+kajal,1/4/2020,Headache,Fever,Cough,Israel,4,4
+juneb bano,2/4/2020,Headache,Fever,Cough,Gibraltar,4,2
+parerna,3/4/2020,Headache,Fever,Cough,Sri Lanka,8,5
+alka,4/4/2020,Headache,Fever,Cough,England,5,3
+manju devi,5/4/2020,Headache,Fever,Cough,Zimbabwe,6,2
+anita,6/4/2020,Headache,Fever,Cough,Wallis and Futuna,6,2
+gungun,7/4/2020,Headache,Fever,Cough,Morocco,4,3
+neelam,8/4/2020,Headache,Fever,Cough,Monaco,5,4
+monika,9/4/2020,Headache,Fever,Cough,Greenland,4,3
+sonia tiwari,10/4/2020,Headache,Fever,Cough,Saudi Arabia,7,3
+muskan,11/4/2020,Headache,Fever,Cough,Hong Kong,8,2
+priynka,12/4/2020,Headache,Fever,Cough,Japan,5,2
+smt.kiswar jahan,13/4/2020,Headache,Fever,Cough,Mali,4,5
+muskan,14/4/2020,Headache,Fever,Cough,Saint Vincent and the Grenadines,7,5
+vandhna,15/4/2020,Headache,Fever,Cough,Romania,6,5
+kanchan,16/4/2020,Headache,Fever,Cough,Malta,6,5
+santosh bai,17/4/2020,Headache,Fever,Cough,Laos,6,4
+munni khatun,18/4/2020,Headache,Fever,Cough,Nigeria,6,2
+smt. annpurna,19/4/2020,Headache,Fever,Cough,Norfolk Island,6,3
+saneha,20/4/2020,Headache,Fever,Cough,Botswana,4,2
+hemlata,21/4/2020,Headache,Fever,Cough,Ivory Coast,4,5
+monika rani,22/4/2020,Headache,Fever,Cough,Pakistan,6,2
+neha,23/4/2020,Headache,Fever,Cough,Georgia,6,3
+reema jha,24/4/2020,Headache,Fever,Cough,Austria,6,3
+kumari meera,25/4/2020,Headache,Fever,Cough,Scotland,5,4
+raj kumari,26/4/2020,Headache,Fever,Cough,Denmark,5,2
+yashika,27/4/2020,Headache,Fever,Cough,Kyrgyzstan,4,2
+aarti,28/4/2020,Headache,Fever,Cough,Lithuania,4,2
+tapsam,29/4/2020,Cough,Headache,Fever,Poland,4,4
+sapna,30/4/2020,Cough,Headache,Fever,Sierra Leone,4,3
+khusboo,1/5/2020,Cough,Headache,Fever,Guyana,5,4
+ishika,2/5/2020,Cough,Headache,Fever,Azerbaijan,7,4
+partibha,3/5/2020,Cough,Headache,Fever,Mayotte,8,4
+narbada,4/5/2020,Cough,Headache,Fever,San Marino,8,5
+kumari manju,5/5/2020,Cough,Headache,Fever,Gabon,4,3
+anita,6/5/2020,Cough,Headache,Fever,Isle of Man,5,3
+rinku kumari,7/5/2020,Cough,Headache,Fever,Vietnam,4,4
+pooja,8/5/2020,Cough,Headache,Fever,Dominican Republic,7,5
+sandhya,9/5/2020,Cough,Headache,Fever,Togo,6,5
+renu,10/5/2020,Headache,Fever,Cough,Maldives,4,2
+deepika,11/5/2020,Headache,Fever,Cough,Guinea-Bissau,5,4
+kanchan,12/5/2020,Headache,Fever,Cough,Cameroon,5,4
+spana,13/5/2020,Headache,Fever,Cough,South Sudan,4,5
+sapna,14/5/2020,Headache,Fever,Cough,South Africa,8,4
+rita roy,15/5/2020,Headache,Fever,Cough,Yemen,7,2
+manju,16/5/2020,Headache,Fever,Cough,Virgin Islands (U.S.),8,3
+reshma,17/5/2020,Headache,Fever,Cough,Netherlands,8,3
+samaiali,18/5/2020,Headache,Fever,Cough,Federated States of Micronesia,8,4
+heena,19/5/2020,Headache,Fever,Cough,France,6,5
+manju devi,20/5/2020,Headache,Fever,Cough,Namibia,6,2
+priyanka sagar,21/5/2020,Headache,Fever,Cough,Singapore,4,2
+samreen,22/5/2020,Headache,Fever,Cough,Niue,4,5
+himanshi,23/5/2020,Headache,Fever,Cough,Serbia,8,4
+mamta,24/5/2020,Headache,Fever,Cough,Indonesia,8,2
+reena,25/5/2020,Headache,Fever,Cough,Republic of Kosovo,7,3
+pankaj,26/5/2020,Headache,Fever,Cough,Aruba,8,5
+roshan,27/5/2020,Headache,Fever,Cough,Finland,5,4
+gul afshan,28/5/2020,Headache,Fever,Cough,Northern Mariana Islands,8,2
+shana,29/5/2020,Headache,Fever,Cough,Brazil,7,2
+nagma,30/5/2020,Headache,Fever,Cough,Algeria,4,3
+usha devi,31/5/2020,Headache,Fever,Cough,Colombia,6,3
+mamta,1/6/2020,Headache,Fever,Cough,Belarus,8,5
+tanuja,2/6/2020,Headache,Fever,Cough,Central African Republic,4,3
+rishu,3/6/2020,Headache,Fever,Cough,El Salvador,7,3
+gunjan verna,4/6/2020,Headache,Fever,Cough,Tuvalu,7,2
+noor jala,5/6/2020,Headache,Fever,Cough,Australia,6,5
+wewr,6/6/2020,Headache,Fever,Cough,Somalia,8,4
+varsha,7/6/2020,Headache,Fever,Cough,Guadeloupe,7,5
+anjali,8/6/2020,Headache,Fever,Cough,Luxembourg,8,3
+khusbhu,9/6/2020,Cough,Headache,Fever,Afghanistan,4,3
+khusbhu,10/6/2020,Cough,Headache,Fever,Slovenia,4,5
+reshma,11/6/2020,Cough,Headache,Fever,Martinique,7,5
+sushma,12/6/2020,Cough,Headache,Fever,Sweden,8,2
+lakhi devi,13/6/2020,Cough,Headache,Fever,Suriname,5,3
+nayana kumari,14/6/2020,Cough,Headache,Fever,Chad,6,2
+nirmal,15/6/2020,Cough,Headache,Fever,Turkey,4,3
+bhawana,16/6/2020,Cough,Headache,Fever,Anguilla,7,3
+preeti,17/6/2020,Cough,Headache,Fever,Western Sahara,5,3
+reema,18/6/2020,Cough,Headache,Fever,Norway,5,3
+jamrujaha,19/6/2020,Cough,Headache,Fever,Niger,6,2
+anju devi,20/6/2020,Headache,Fever,Cough,Barbados,8,3
+puja,21/6/2020,Headache,Fever,Cough,Bulgaria,7,3
+durga devi,22/6/2020,Headache,Fever,Cough,French Southern and Antarctic Lands,4,3
+ruchi,23/6/2020,Headache,Fever,Cough,Sint Maarten,7,5
+aruna with children,24/6/2020,Headache,Fever,Cough,Falkland Islands,8,4
+chanchal,25/6/2020,Headache,Fever,Cough,Burkina Faso,6,5
+chama,26/6/2020,Headache,Fever,Cough,Saint Barthelemy,8,3
+deepa,27/6/2020,Headache,Fever,Cough,Ecuador,7,3
+poonam,28/6/2020,Headache,Fever,Cough,Aland Islands,7,3
+poonam,29/6/2020,Headache,Fever,Cough,Tanzania,5,3
+gulafsa,30/6/2020,Headache,Fever,Cough,Saint Helena,4,3
+manisha,1/7/2020,Headache,Fever,Cough,Eritrea,4,3
+babita,2/7/2020,Headache,Fever,Cough,Myanmar,5,4
+seema,3/7/2020,Headache,Fever,Cough,Lesotho,7,2
+smt ladidavi,4/7/2020,Headache,Fever,Cough,Kiribati,8,4
+khushbu,5/7/2020,Headache,Fever,Cough,Malaysia,7,3
+sunaina,6/7/2020,Headache,Fever,Cough,Israel,8,5
+gulista,7/7/2020,Headache,Fever,Cough,Gibraltar,5,5
+kumari deepa,8/7/2020,Headache,Fever,Cough,Sri Lanka,4,2
